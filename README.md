@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋</h3>
+### Hi there 👋
 
 <p>My name is Daniel and I'm passionate about bringing great ideas 💡 to life. By adding development skills to my producing skills I try to find new creative ways of filmmaking 📽️</p>
 
