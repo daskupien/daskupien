@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **brainstorming project ideas to combine my new skills**
 - 🌱 I’m currently learning more **Javascript with the JavaScript30 course**
 - 👯 I’m looking to collaborate on **sustainable projects**
-- 🤔 I’m looking for people **who are passionate about sustainablity and bring the drive to create things **
+- 🤔 I’m looking for people **who are passionate about sustainablity and bring the drive to create things**
 - 💬 Ask me about **Ruby on Rails, Git**
 - 📫 How to reach me: **info@danielskupien.de**
 
